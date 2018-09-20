@@ -1,0 +1,24 @@
+_repo: Glimpses-of-Ocean-Life-Or-Rock-Pools-and-the-Lessons-they-Teach_52666
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Harper, John
+    gutenberg_agent_id: '46988'
+    url: http://www.gutenberg.org/2009/agents/46988
+description: ''
+gutenberg_issued: '2016-07-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52666'
+  lccn: 06019632
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Marine animals -- Juvenile literature'
+- !lcsh 'Animal behavior'
+- !lcc 'QL'
+- GITenberg
+title: Glimpses of Ocean Life; Or, Rock-Pools and the Lessons they Teach
+url: http://www.gutenberg.org/ebooks/52666
