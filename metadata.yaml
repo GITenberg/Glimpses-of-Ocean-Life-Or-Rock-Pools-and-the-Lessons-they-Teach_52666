@@ -1,11 +1,16 @@
 _repo: Glimpses-of-Ocean-Life-Or-Rock-Pools-and-the-Lessons-they-Teach_52666
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 52666-h/images/cover-image.jpg
 creator:
   author:
     agent_name: Harper, John
     gutenberg_agent_id: '46988'
     url: http://www.gutenberg.org/2009/agents/46988
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52666#Glimpses-of-Ocean-Life-Or-Rock-Pools-and-the-Lessons-they-Teach
 gutenberg_issued: '2016-07-28'
 gutenberg_type: Text
 identifiers:
